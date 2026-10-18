@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+data/
+fotos_propias/
+modelo/
+modelo_extras/
+monedas_conteo.ipynb
+auditar_etiquetas.py
+armar_monedas_billetes.py
+armar_escenas.py
+*.mp4
+*.zip
