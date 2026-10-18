@@ -1,7 +1,6 @@
 __pycache__/
 *.pyc
 data/
-fotos_propias/
 modelo/
 modelo_extras/*
 !modelo_extras/videos/
@@ -11,6 +10,8 @@ auditar_etiquetas.py
 armar_monedas_billetes.py
 armar_escenas.py
 *.mp4
+!fotos_propias/*.MP4
+!fotos_propias/*.mp4
 !modelo_extras/videos/video_01_monedas_quitar_y_agregar.mp4
 !modelo_extras/videos/video_02_billetes_quitar_y_agregar.mp4
 !modelo_extras/videos/video_03_monedas_y_billetes_quitar_y_agregar.mp4

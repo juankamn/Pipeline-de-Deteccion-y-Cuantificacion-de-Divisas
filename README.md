@@ -25,7 +25,7 @@ Las fotos no están en este repositorio.
 - Monedas: [monedas-v3](https://app.roboflow.com/pandebono-predictors-workspace/monedas-v3/3)
 - Billetes: [billetes colombianos](https://app.roboflow.com/pandebono-predictors-workspace/billetes-colombianos-lgn8w/1)
 
-Las fotos y los videos grabados con el celular tampoco se suben. Para probar la inferencia con otro archivo, pásalo a `inferir.py`.
+Las fotos de entrenamiento no están en este repositorio: se descargan de esos dos enlaces. Las ocho fotos y los tres videos con los que se probó el modelo sí están en `fotos_propias/`. Con eso se pueden correr la sección 11, la sección 12 y `inferir.py`.
 
 ## Inferencia local
 
