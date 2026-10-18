@@ -12,6 +12,12 @@ Detector YOLO que lee la denominación de cada pieza y suma el dinero de la esce
 - Sección 12: los tres videos, con la suma estable.
 - Sección 13: conclusiones sobre falsos positivos, falsos negativos y oclusión.
 
+Los videos ya contados se pueden abrir sin clonar el repositorio:
+
+- [Monedas](https://github.com/juankamn/Pipeline-de-Deteccion-y-Cuantificacion-de-Divisas/blob/main/modelo_extras/videos/video_01_monedas_quitar_y_agregar.mp4)
+- [Billetes](https://github.com/juankamn/Pipeline-de-Deteccion-y-Cuantificacion-de-Divisas/blob/main/modelo_extras/videos/video_02_billetes_quitar_y_agregar.mp4)
+- [Monedas y billetes](https://github.com/juankamn/Pipeline-de-Deteccion-y-Cuantificacion-de-Divisas/blob/main/modelo_extras/videos/video_03_monedas_y_billetes_quitar_y_agregar.mp4)
+
 ## Datasets
 
 Las fotos no están en este repositorio.
@@ -19,7 +25,7 @@ Las fotos no están en este repositorio.
 - Monedas: [monedas-v3](https://app.roboflow.com/pandebono-predictors-workspace/monedas-v3/3)
 - Billetes: [billetes colombianos](https://app.roboflow.com/pandebono-predictors-workspace/billetes-colombianos-lgn8w/1)
 
-Las fotos y los videos propios tampoco se suben. Para probar la inferencia, pasa cualquier imagen o video a `inferir.py`.
+Las fotos y los videos grabados con el celular tampoco se suben. Para probar la inferencia con otro archivo, pásalo a `inferir.py`.
 
 ## Inferencia local
 
